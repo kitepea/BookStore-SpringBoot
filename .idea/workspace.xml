@@ -64,7 +64,7 @@
     "dart.analysis.tool.window.visible": "false",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/JetBrains/IntelliJ/imaginary-engineering",
+    "last_opened_file_path": "D:/Github/BookStore-SpringBoot",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -108,6 +108,7 @@
       <workItem from="1710074644299" duration="58000" />
       <workItem from="1710074732389" duration="733000" />
       <workItem from="1710075489116" duration="80000" />
+      <workItem from="1710076346179" duration="299000" />
     </task>
     <servers />
   </component>
